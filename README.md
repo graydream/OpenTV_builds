@@ -1,7 +1,7 @@
 ![Image text](logo.png)
 
 
-# Motivations
+# MOTIVATIONS
 
 Watching IPTV programs is hard in macOS platform, since most existing applications are built merely for Windows or Android. That is the first motivation why I develop this application for macOS. The graphic rendering is based on OpenGL, which is responsible for automatically renderring frames onto the computer screen. The decoding library is from FFMPEG, the front-end UI library is from QT.
 
